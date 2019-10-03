@@ -18,12 +18,14 @@ qualitatively and quantitatively.
 
 If you use the code for your research, please cite our paper as follows:
 
+```
 @inproceedings{fu-2019-hybrid-l,
 author =       {Fu Gang, Duan Lian, Xiao Chunxia},
 title =        {A Hybrid $L_2-L_p$ Variational Model for Single Low-light Image Enhancement with Bright Channel Prior},
 booktitle =    {IEEE International Conference on Image Processing (ICIP)},
 year =         {2019},
 }
+```
 
 ## Execution platform
 I have tested this code on Linux (Manjaro) system with Matlab 2014b (2017a), but
